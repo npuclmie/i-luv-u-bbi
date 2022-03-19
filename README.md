@@ -1,1 +1,2 @@
-# Thanh Thúi ngoo
+const CONFIG = {
+titleWEB : 'Haloooooo'
