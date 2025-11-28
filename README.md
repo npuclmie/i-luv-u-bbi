@@ -9,5 +9,5 @@ const CONFIG = {
     reply: 'Vầng ạ',
     mess: 'gvs',
     messDesc: 'Mai mình đón bé đi bốc đầu nhaaa',
-    btnAccept: 'Dặ',
+    btnAccept: 'Dạaaaa',
 }
